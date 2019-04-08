@@ -1,0 +1,24 @@
+# Ignore everything in .idea
+.idea
+
+*.mo
+*.pyo
+*.pyc
+.sass-cache/
+npm-debug.log
+node_modules/
+venv/
+.cache/
+
+.data*/
+
+toddl/settings/local.py
+toddl/settings/local_test.py
+toddl/db.sqlite3
+toddl/app/webpack-stats.json
+toddl/app/build/
+toddl/assets/
+
+toddl/.cache
+toddl/.coverage
+toddl/cover/
