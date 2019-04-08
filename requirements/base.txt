@@ -7,6 +7,8 @@ django-crispy-forms==1.7.2
 django-webpack-loader==0.6.0
 django-settings-export==1.2.1
 
+jira
+
 # Tests and QA
 pytest==3.6.1
 pytest-django==3.2.1
